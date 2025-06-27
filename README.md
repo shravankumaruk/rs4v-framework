@@ -367,6 +367,19 @@ Follow along to see live installation, menu navigation, and sample report genera
 ![Screenshot 2025-06-27 030656](https://github.com/user-attachments/assets/a21d7923-0f8c-4705-8cd2-c078972c83a1)
 *Successful sign-in of ORTHANC via our proxy.*
 
+6.**WAF Blocking Bruteforce Attack**
+![image](https://github.com/user-attachments/assets/b66c3fd3-872f-4b92-8df1-5993466b633d)
+
+
+7.**Our 2FA Blocks if any file other than .rs4v is uploaded.**
+![image](https://github.com/user-attachments/assets/d67e0cae-d573-47bc-838d-e1dcb50a8890)
+
+8.**Our WAF Blocks both XSS Attack and SQL Injections**
+
+![image](https://github.com/user-attachments/assets/730391db-4954-4e47-8c70-938f790e3185)
+
+![image](https://github.com/user-attachments/assets/3c1f5743-b419-4d15-bf59-42e2d250402a)
+
 
 ---
 
