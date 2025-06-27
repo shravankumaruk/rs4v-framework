@@ -72,6 +72,7 @@
 
    * [Method 1: Manual Pip Installation](#method-1-manual-pip-installation)
    * [Method 2: Automated Script (install.sh)](#method-2-automated-script-installsh)
+   * [Method 3:Run on Google cloud shell](#method-3--run-on-cloud-shell)
 5. [Configuration 🔧](#configuration-)
 6. [Usage ✨](#usage-)
 7. [Proxy & Security 📡🛡️](#proxy--security-)
@@ -191,6 +192,11 @@ The `install.sh` does the following:
 > ```bash
 > dos2unix main.py
 > ```
+
+### Method 3 : Run on cloud shell 
+<p align="left">
+  <a href="https://shell.cloud.google.com/cloudshell/open?cloudshell_git_repo=https://github.com/shravankumaruk/rs4v-framework/&tutorial=README.md" target="_blank"><img src="https://gstatic.com/cloudssh/images/open-btn.svg"></a>
+</p>
 
 ---
 
