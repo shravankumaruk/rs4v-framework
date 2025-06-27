@@ -357,7 +357,7 @@ login_template = """
       <input type="submit" value="Next" />
     </form>
     <div class="reset-link">
-      <p><a href="https://wa.me/918088593127?text=Reset%20password" target="_blank">Reset Password</a></p>
+      <p><a href="https://github.com/shravankumaruk/rs4v-framework/issues" target="_blank">Reset Password</a></p>
     </div>
   </div>
 </body>
