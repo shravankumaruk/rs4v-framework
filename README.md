@@ -59,6 +59,9 @@
 <hr>
 
 
+<p align="center">
+  <img src="https://shravanprojects.github.io/rs4v-framework/RS4V.gif" alt="RS4V Demo GIF" width="700"/>
+</p>
 
 ## 🔍 Table of Contents
 
@@ -315,11 +318,11 @@ All logs are emitted by `server.py` in your home directory and include proxy, WA
 
 ## 🎬 Video Tutorial
 
-[![Watch the video](https://img.youtube.com/vi/pBy1zgt0XPc/hqdefault.jpg)](https://www.youtube.com/watch?v=pBy1zgt0XPc)
+[![Watch the video](https://img.youtube.com/vi/7lBsuiZRWm0/hqdefault.jpg)](https://www.youtube.com/watch?v=7lBsuiZRWm0)
 
 Prefer a step-by-step walkthrough? Watch on YouTube:
 
-▶️ [https://www.youtube.com/watch?v=pBy1zgt0XPc](https://www.youtube.com/watch?v=pBy1zgt0XPc)
+▶️ [https://www.youtube.com/watch?v=7lBsuiZRWm0](https://www.youtube.com/watch?v=7lBsuiZRWm0)
 
 Follow along to see live installation, menu navigation, and sample report generation.
 
