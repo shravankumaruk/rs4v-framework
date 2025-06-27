@@ -7,7 +7,7 @@
   <!-- Shields.io Badges (10) -->
   <img src="https://img.shields.io/badge/License-GPLv3-blue.svg?style=for-the-badge&logo=gnu" alt="License: GPL v3" />
   <img src="https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge&logo=python" alt="Python version" />
-  <img src="https://img.shields.io/badge/Orthanc-1.9.0-green?style=for-the-badge" alt="Orthanc version" />
+  <img src="https://img.shields.io/badge/Orthanc-1.12.2-green?style=for-the-badge" alt="Orthanc version" />
   <img src="https://img.shields.io/badge/Proxy-Secure%20HTTPS-red?style=for-the-badge" alt="Secure HTTPS Proxy" />
   <img src="https://img.shields.io/badge/Build-Passing-brightgreen?style=for-the-badge&logo=github" alt="CI Build Passing" />
   <img src="https://img.shields.io/badge/Version-1.0.0-yellow?style=for-the-badge" alt="Version 1.0.0" />
@@ -327,12 +327,36 @@ Follow along to see live installation, menu navigation, and sample report genera
 
 ## 📸 Screenshots
 
-1. **Installation Progress**:
 
-2. **Main Menu**:
+1. **Installation Progress** via `install.sh` :
 
-3. **PDF Report**:
+![Screenshot 2025-06-27 025409](https://github.com/user-attachments/assets/abdc5730-57b8-448e-8103-763e956f68cd)
 
+
+
+2. **Main Menu** via `main.py` :
+
+![Screenshot 2025-06-27 030012](https://github.com/user-attachments/assets/c118f8d1-6932-4b70-860d-142139758f7b)
+
+
+4. **Server Panel** via `server.py` :
+
+![Screenshot 2025-06-27 030113](https://github.com/user-attachments/assets/59cebf2b-5728-4b59-b0c0-64b7fea5be11)
+
+
+5. **Web Login access** :
+
+![Screenshot 2025-06-27 030133](https://github.com/user-attachments/assets/faf7b100-262f-40ae-a356-d787ff3aff4e)
+
+
+
+![Screenshot 2025-06-27 030212](https://github.com/user-attachments/assets/6fbc4498-679e-44f6-ab2d-6259ec05e9b4)
+*Uses our inhouse .rs4v key for the 2FA in place.*
+
+
+
+![Screenshot 2025-06-27 030656](https://github.com/user-attachments/assets/a21d7923-0f8c-4705-8cd2-c078972c83a1)
+*Successful sign-in of ORTHANC via our proxy.*
 
 
 ---
